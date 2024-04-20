@@ -1,0 +1,169 @@
+.Keyboard>div:nth-of-type(1){
+    grid-area: a;
+}
+.Keyboard>div:nth-of-type(2){
+    grid-area: b;
+}
+.Keyboard>div:nth-of-type(3){
+    grid-area: c;
+}
+.Keyboard>div:nth-of-type(4){
+    grid-area: d;
+}
+.Keyboard>div:nth-of-type(5){
+    grid-area: e;
+}
+.Keyboard>div:nth-of-type(6){
+    grid-area: f;
+}
+.Keyboard>div:nth-of-type(7){
+    grid-area: g;
+}
+.Keyboard>div:nth-of-type(8){
+    grid-area: h;
+}
+.Keyboard>div:nth-of-type(9){
+    grid-area: i;
+}
+.Keyboard>div:nth-of-type(10){
+    grid-area: j;
+}
+.Keyboard>div:nth-of-type(11){
+    grid-area: k;
+}
+.Keyboard>div:nth-of-type(12){
+    grid-area: l;
+}
+.Keyboard>div:nth-of-type(13){
+    grid-area: m;
+}
+.Keyboard>div:nth-of-type(14){
+    grid-area: n;
+}
+.Keyboard>div:nth-of-type(15){
+    grid-area: o;
+}
+.Keyboard>div:nth-of-type(16){
+    grid-area: p;
+}
+.Keyboard>div:nth-of-type(17){
+    grid-area: q;
+}
+.Keyboard>div:nth-of-type(18){
+    grid-area: r;
+}
+.Keyboard>div:nth-of-type(19){
+    grid-area: s;
+}
+.Keyboard>div:nth-of-type(20){
+    grid-area: t;
+}
+.Keyboard>div:nth-of-type(21){
+    grid-area: u;
+}
+.Keyboard>div:nth-of-type(22){
+    grid-area: v;
+}
+.Keyboard>div:nth-of-type(23){
+    grid-area: w;
+}
+.Keyboard>div:nth-of-type(24){
+    grid-area: x;
+}
+.Keyboard>div:nth-of-type(25){
+    grid-area: y;
+}
+.Keyboard>div:nth-of-type(26){
+    grid-area: z;
+}
+.Keyboard>div:nth-of-type(27){
+    grid-area: a1;
+}
+.Keyboard>div:nth-of-type(28){
+    grid-area: b1;
+}
+.Keyboard>div:nth-of-type(29){
+    grid-area: c1;
+}
+.Keyboard>div:nth-of-type(30){
+    grid-area: d1;
+}
+.Keyboard>div:nth-of-type(31){
+    grid-area: e1;
+}
+.Keyboard>div:nth-of-type(32){
+    grid-area: f1;
+}
+.Keyboard>div:nth-of-type(33){
+    grid-area: g1;
+}
+.Keyboard>div:nth-of-type(34){
+    grid-area: h1;
+}
+.Keyboard>div:nth-of-type(35){
+    grid-area: i1;
+}
+.Keyboard>div:nth-of-type(36){
+    grid-area: j1;
+}
+.Keyboard>div:nth-of-type(37){
+    grid-area: k1;
+}
+.Keyboard>div:nth-of-type(38){
+    grid-area: l1;
+}
+.Keyboard>div:nth-of-type(39){
+    grid-area: m1;
+}
+.Keyboard>div:nth-of-type(40){
+    grid-area: n1;
+}
+.Keyboard>div:nth-of-type(41){
+    grid-area: o1;
+}
+.Keyboard>div:nth-of-type(42){
+    grid-area: p1;
+}
+.Keyboard>div:nth-of-type(43){
+    grid-area: q1;
+}
+.Keyboard>div:nth-of-type(44){
+    grid-area: r1;
+}
+.Keyboard>div:nth-of-type(45){
+    grid-area: s1;
+}
+.Keyboard>div:nth-of-type(46){
+    grid-area: t1;
+}
+.Keyboard>div:nth-of-type(47){
+    grid-area: u1;
+}
+.Keyboard>div:nth-of-type(48){
+    grid-area: v1;
+}
+.Keyboard>div:nth-of-type(49){
+    grid-area: w1;
+}
+.Keyboard>div:nth-of-type(50){
+    grid-area: x1;
+}
+.Keyboard>div:nth-of-type(51){
+    grid-area: y1;
+}
+.Keyboard>div:nth-of-type(52){
+    grid-area: z1;
+}
+.Keyboard>div:nth-of-type(53){
+    grid-area: a2;
+}
+.Keyboard>div:nth-of-type(54){
+    grid-area: b2;
+}
+.Keyboard>div:nth-of-type(55){
+    grid-area: c2;
+}
+
+
+
+

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masai Keyboard</title>
+    <link rel="stylesheet" href="./keyboard.css">
+    <style>
+        .container{
+            width: 100%;
+            padding-bottom: 50px;
+        }
+        .heading>h1{
+            text-align: center;
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,75,1) 35%, rgba(0,212,255,1) 100%);
+            color: transparent;
+            background-clip: text;
+            font-weight: 800;
+        }
+        .Keyboard {
+            border: solid black;
+            width: 80%;
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap:10px;
+            padding:25px;
+            margin: auto;
+            border-radius: 20px;
+            background-color: #272a29;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            grid-template-areas:"a b c d e f g h i j k l"
+                                "m n o p q r s t u v w x"
+                                "y z a1 b1 c1 d1 e1 f1 g1 h1 i1 i1"
+                                "j1 k1 l1 m1 n1 o1 p1 q1 r1 s1 t1 t1"
+                                "u1 v1 w1 x1 y1 y1 y1 y1 z1 a2 b2 c2";
+                
+        }
+
+        .Keyboard>div {
+            /* border: solid red 1px; */
+            display: flex;
+            justify-content: center;
+            align-items:center;
+            padding :10px 8px;
+            border-radius: 5px;
+            color: #4bb1d3;
+            font-weight: 500;
+            background-color: #2e353a;
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="heading">
+            <h1>Masai Keyboard</h1>
+        </div>
+        <div class="Keyboard">
+            <div>~</div>
+            <div>1</div>
+            <div>2</div>
+            <div>3</div>
+            <div>4</div>
+            <div>5</div>
+            <div>6</div>
+            <div>7</div>
+            <div>8</div>
+            <div>9</div>
+            <div>0</div>
+            <div>Delete</div>
+            <div>tab</div>
+            <div>Q</div>
+            <div>W</div>
+            <div>E</div>
+            <div>R</div>
+            <div>T</div>
+            <div>Y</div>
+            <div>U</div>
+            <div>I</div>
+            <div>O</div>
+            <div>P</div>
+            <div>\</div>
+            <div>caps</div>
+            <div>A</div>
+            <div>S</div>
+            <div>D</div>
+            <div>F</div>
+            <div>G</div>
+            <div>H</div>
+            <div>J</div>
+            <div>K</div>
+            <div>L</div>
+            <div>Enter</div>
+            <div>shift</div>
+            <div>Z</div>
+            <div>X</div>
+            <div>C</div>
+            <div>V</div>
+            <div>B</div>
+            <div>N</div>
+            <div>M</div>
+            <div><</div>
+            <div>></div>
+            <div>shift</div>
+            <div><i class="fa-solid fa-globe" style="color: #4bb1d3;;"></i></div>
+            <div>control</div>
+            <div>option</div>
+            <div>alt</div>
+            <div>space</div>
+            <div>alt</div>
+            <div>option</div>
+            <div><i class="fa-solid fa-arrow-left" style="color: #4bb1d3;"></i></div>
+            <div><i class="fa-solid fa-arrow-right" style="color: #4bb1d3;"></i></div>
+        </div>
+
+    </div>
+    <script src="https://kit.fontawesome.com/a89a1bd747.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
